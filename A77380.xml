@@ -1,0 +1,578 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ioabs counsell and King Davids seasonable hearing it. Delivered in a sermon before the Honourable House of Commons, at their late solemne fast, Feb. 22. By W. Bridges, preacher of the Gospell at Dunstans in the East, London.</title>
+            <author>Bridges, Walter.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 50 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77380</idno>
+            <idno type="STC">Wing B4484A</idno>
+            <idno type="STC">Thomason E92_21</idno>
+            <idno type="STC">ESTC R1548</idno>
+            <idno type="EEBO-CITATION">99859874</idno>
+            <idno type="PROQUEST">99859874</idno>
+            <idno type="VID">155760</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77380)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155760)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 16:E92[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ioabs counsell and King Davids seasonable hearing it. Delivered in a sermon before the Honourable House of Commons, at their late solemne fast, Feb. 22. By W. Bridges, preacher of the Gospell at Dunstans in the East, London.</title>
+                  <author>Bridges, Walter.</author>
+                  <author>Bridge, William, 1600?-1670, attributed name.</author>
+                  <author>England and Wales. Parliament. aut</author>
+               </titleStmt>
+               <extent>[12], 23, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R. Cotes, for Andrew Crooke, and are to be sold at his shop at the signe of the Greene Dragon, in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Sometimes attributed to William Bridge.</note>
+                  <note>With an order to print on verso of first leaf dated: "22. Feb. 1642 [i.e. 1643]".</note>
+                  <note>Signed: W. Bridges.</note>
+                  <note>Running title reads: A sermon preached at a fast before the Honourable House of Commons.</note>
+                  <note>In this edition: there is no comma after "counsell" on the title page; line 11 on title page ends "Gospell".</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Samuel, 2nd, XIX, 5-8 --  Sermons --  Early works to 1800.</term>
+               <term>Kings and rulers --  Sermons --  Early works to 1800.</term>
+               <term>Fast-day sermons --  17th century.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="order">
+            <pb facs="tcp:155760:1"/>
+            <opener>
+               <date>
+                  <hi>Die Mercurii,</hi> 22. <hi>Feb.</hi> 1642.</date>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T is this day ordered by the Commons Houſe of Parliament, that Mr. <hi>Glyn</hi> ſhall returne thanks to Mr. <hi>Bridges,</hi> for the great paines he tooke in the Ser<g ref="char:EOLhyphen"/>mon he Preached at the intreaty of this Houſe at St. <hi>Margarets,</hi> in the City of <hi>Weſtminſter,</hi> (being the day of Publique humiliation) and is likewiſe to deſire him to Print and publiſh his Ser<g ref="char:EOLhyphen"/>mon; And it is further ordered that no man ſhall preſume to Print his Sermon, but whom he ſhall Authoriſe under his hand-writing.</p>
+            <closer>
+               <signed>H. Elſynge Cler. Parl. D. Com.</signed>
+               <signed>
+                  <hi>I doe appoint</hi> Andrew Crooke <hi>Stationer, to Print my Sermon.</hi> W. BRIDGES.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:155760:1" rendition="simple:additions"/>
+            <p>IOABS COVNSELL AND KING <hi>DAVIDS</hi> SEASONABLE HEARING IT. Delivered in a SERMON Before the Honourable Houſe of COMMONS, At their late ſolemne Faſt, <hi>Feb.</hi> 22.</p>
+            <p>By W. BRIDGES, Preacher of the Goſpell at <hi>Dunſtans</hi> in the <hi>Eaſt, London.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>R. Cotes,</hi> for <hi>Andrew Crooke,</hi> and are to be ſold at his ſhop at the ſigne of the Greene Dragon, in <hi>Pauls</hi> Church-yard. 1643.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:155760:2"/>
+            <pb facs="tcp:155760:2"/>
+            <head>TO THE HONOVRABLE the Houſe of COMMONS Aſſembled in PARLIAMENT.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N a willing obedience to your Commands, I here preſent to your Eyes, what You were late<g ref="char:EOLhyphen"/>ly pleaſed to attend unto with great patience and Chriſtian chearefullneſſe with your eares. Chriſt Ieſus pleaſe to ſpeake that to the hearts of the Audi<g ref="char:EOLhyphen"/>tory,
+<pb facs="tcp:155760:3"/>which I did to their eares, that in this time of great ſorrow, there may that evidence be to our Miniſtery (which would be to every conſcionable man, a matter of great joy) that ſome may be undeceived and brought to ſee the things that concerne their peace: A won<g ref="char:EOLhyphen"/>derfull ſecurity and inſenſibleneſſe lies upon our people every where, beſide a ſpirit of con<g ref="char:EOLhyphen"/>tradiction or malignity, deſerving a cenſure like that <hi>Act.</hi> 7.51. My humble requeſt to you is, that you will pleaſe to accept this as an ear<g ref="char:EOLhyphen"/>neſt of my affectionate ſervice to you and the Publique. My humble requeſt to God for you is, that he will pleaſe to carry on the weighty Services you have in hand for his glory, and the good of the Kingdome of Ieſus Chriſt, and the bringing to paſſe the worke of Reformati<g ref="char:EOLhyphen"/>on, through ſo maine, ſo great oppoſitions.</p>
+            <closer>
+               <signed>
+                  <hi>So prayes your moſt humble Servant,</hi> W. BRIDGES.</signed>
+               <dateline>
+                  <hi>From my Study in Minchin Lane,</hi> 
+                  <date>
+                     <hi>Feb.</hi> 27. 1642,</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:155760:3"/>
+            <head>THE PREFACE.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE buſineſſe of Chriſt Je<g ref="char:EOLhyphen"/>ſus Kingdome, in theſe ſad times, (yee Servants of the li<g ref="char:EOLhyphen"/>ving God) is looked upon with the ſquint eyed multi<g ref="char:EOLhyphen"/>tude, under an <hi>Hexapla</hi> of conſiderations.</p>
+            <p>The firſt is a Theologicall, they would make us beleeve they deſire Divinely, or at leaſt Divine<g ref="char:EOLhyphen"/>like to behold it. To ſay nothing of Bookes,
+<note place="margin">Dr. <hi>Ferne.</hi>
+               </note> for they have had their Anſwers, and ſome of them newly furbuſhed over, ſpeake ſuch language now, as the Author knew not in the time of his delivery, of himſelfe, upon that ſubject,
+<note place="margin">
+                  <hi>Grand Rebellion</hi> by <hi>Gr. Williams.</hi>
+               </note> or elſe the Title page ſayes that which the Booke proves not at all. I ſhall deliver the ſenſe of the whole
+<pb facs="tcp:155760:4"/>in that of <hi>Rom. 13.</hi> He that reſiſteth, &amp;c. and of the Evangelist, Reſiſt not evill, &amp;c. To let goe Fathers,
+<note place="margin">
+                  <p>
+                     <hi>Pr<gap reason="illegible" resp="#MURP" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>er</hi> out of them, <hi>Epiſt. Sy<g ref="char:EOLhyphen"/>ned.</hi>
+                  </p>
+                  <p>
+                     <hi>Cui nomen li<g ref="char:EOLhyphen"/>bellus ſupplex Tom.</hi> 1 <hi>fol.</hi> 80 3. <hi>Conc. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ph<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſ. Da<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>enet. pa.</hi> 77.</p>
+               </note> ſomething out of the Councels, the Doctrine of our owne Biſhops, and other things that might be ſaid, J ſhall deſire the Reader to obſerve from me,</p>
+            <p n="1">
+               <hi>1.</hi> That the King muſt command not onely ac<g ref="char:EOLhyphen"/>cording to Gods, but Mans Law alſo.</p>
+            <p n="2">
+               <hi>2.</hi> That if he doe not ſo command, the reſiſtance is not a reſiſtance of power, but will.</p>
+            <p n="3">
+               <hi>3.</hi> That to ſay ſuch a reſiſtance muſt be but on<g ref="char:EOLhyphen"/>ly defenſive, is non-ſenſe, for ſo a man may be re<g ref="char:EOLhyphen"/>ſiſting ever, and never, reſiſt like the filly women of whom the Apoſtle ſayes, they are ever learning and never attaine to the Truth.</p>
+            <p>The Second is an Historicall; they conceive and ſay, Never ſuch times, ſuch Taxations, ſuch Pre<g ref="char:EOLhyphen"/>cedents, ſuch a warre, &amp;c. Never? Sure you erre much in point of Hiſtory, the twentyeth part, fifteenth part,
+<note place="margin">See <hi>Chron. K. John. Ed.</hi> 2. <hi>&amp;c.</hi>
+               </note> ſeventh part, as in the Reigne of King <hi>Iohn</hi> and others, &amp;c. But here the wil<g ref="char:EOLhyphen"/>ling to learne, muſt know,</p>
+            <p n="1">
+               <hi>1.</hi> That if ſome be taken away, it is to pre<g ref="char:EOLhyphen"/>ſerve them, and the reſt.</p>
+            <pb facs="tcp:155760:4"/>
+            <p>And <hi>2.</hi> Whether they had rather part with it to the Parliament, or that and their lives too, to the Cavaliers?</p>
+            <p>The third is a Legall conſideration: Some pro<g ref="char:EOLhyphen"/>poſitions J would make to our Malignants skilled in the Law, which ſhall be theſe: <hi>1.</hi> whether I had better truſt to another mans favour, or to mine owne ſtrength for my defence? My ſtrength is the Law, againſt which, if the government command it does me wrong, if J obey, I doe my ſelfe wrong. <hi>2.</hi> The great offence of authority is whatſoever is committed againſt the ſecurity of the State. <hi>3.</hi>
+               <note place="margin">Ariſt.</note> Heathens tell us that the wiſe muſt give aſmuch to the Law as may be, but to the Lawgiver as little; for (ſaies he) he is a man ſubject to paſsions, may be miſcarryed, &amp;c. <hi>4.</hi> The Law is the common ſurety betweene the King and the Subject, that is to ſay, it bindes me to pay the King Tribute, &amp;c. and binds the King that J ſhall enjoy my protection. <hi>5.</hi> In a word, he is a good Subject that lookes up ward to ſee what, in God, Gods Vicege<g ref="char:EOLhyphen"/>rent commandeth; and ſecondly, that lookes downe<g ref="char:EOLhyphen"/>ward to ſee whom the obedience thereunto doth either hurt or hinder. Papiſts grant us this,
+<note place="margin">Bellarm.</note> that
+<pb facs="tcp:155760:5"/>in the Superior three things are concurrent, <hi>1.</hi> The place, which is from Chriſt alone. <hi>2</hi> The perſon, which is from the chooſers. <hi>3.</hi> The union of theſe two, which is from Chriſt, but by the mediation of a humane act: Let Proteſtants then have their ei<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s in their foreheads.</p>
+            <p>The fourth conſideration is criticall. My money ſhall never helpe to kill men: I anſwer, your mo<g ref="char:EOLhyphen"/>ney is not yours, if the Lord, the Law, the Liberty, the cauſe or the defenders thereof ſtand in neede thereof, no more then the aſſe in the Goſpell or the bread and beeſe of <hi>Naball,</hi>
+               <note place="margin">Matth 21.3. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Sam. 25.1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> theirs, in the like caſe. <hi>2.</hi> I anſwer, your money ſhall not helpe to kill well if you hinder the killing, quelling of thoſe who would both kill and quell us, ours, our Religion, King<g ref="char:EOLhyphen"/>dome, you become friends of Gods enemies and ours, and reſolve to make peace with them, with whom God hath reſolved to have warre, <hi>Exod. 17.</hi> ult.</p>
+            <p>The fifth conſideration is a ſullen Melancholy one, trading's dead, our Money goes, never ſo ma<g ref="char:EOLhyphen"/>ny payments, &amp;c. This man is not worth the an<g ref="char:EOLhyphen"/>ſwering, J ſhall onely deſire him to learne, if he be learneable, what <hi>Iob</hi> ſayes, <hi>Iob 2.10.</hi> Shall we receive good at the hands of God, and not evil alſo?
+<pb facs="tcp:155760:5"/>The Goſpel hath beene a peaceable plentifull Go<g ref="char:EOLhyphen"/>ſpel, and then you loved it, ran after it, but now it is otherwiſe, you are otherwiſe affected. To you J ſhall commend that <hi>Iohn 6.26.</hi> You follow me for the loaves, &amp;c.</p>
+            <p>The ſixth is a meere fooliſh conſideration (if it may ſo be tearmed) or rather (for fooles alſo will be talking) a meere prating, a meere nothing, and non ſenſical thought about the preſent things in the Kingdome. Within the verge of this J ſhall in<g ref="char:EOLhyphen"/>clude the indiſcreete running before Authority, in things where the command and countermand are not alike. This J ſhall deſire to be propoſed within theſe two Propoſitions.</p>
+            <p>Firſt, Manners to ſtay the States leiſure: but,</p>
+            <p>Secondly, Is it any offence to doe their worke for them?</p>
+            <p>Good meaning may be grounded on errors, but the bad muſt be ſhadowed with colours; J ſhall cornmend to my Countrymen, whoſe ſalvation (if J know mine owne heart) I earneſtly deſire, theſe following Notes, with ſome other; theſe by com<g ref="char:EOLhyphen"/>mand, the other by permiſsion, ſet forth to light. I have ſpoken herein to Chriſtians, like ſuch a one
+<gap reason="missing" extent="1 page">
+                  <desc>〈1 page missing〉</desc>
+               </gap>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="2" facs="tcp:155760:6"/>
+            <p>and context following, <hi>viz.</hi>
+            </p>
+            <p n="1">1. A ſad and civill Warre in the bowels of a Kingdome.</p>
+            <p n="2">2. Betweene the King and his, and his Son and his party.</p>
+            <p n="3">3. A battell given, not without bloudſhed on both ſides.</p>
+            <p n="4">4. A victory ordered by the Lord of Hoaſts on the Kings ſide.</p>
+            <p n="5">5. The ſad entertainment this newes of victo<g ref="char:EOLhyphen"/>ry had at Court, and even amongſt the Con<g ref="char:EOLhyphen"/>querors themſelves.</p>
+            <p n="6">6<hi rend="sup">th</hi>. A peremptory and poſitive inference of <hi>Joab</hi> concerning the ſame, <hi>viZ. Thou haſt ſhamed this day the faces of all thy ſervants,</hi> verſ. 5.</p>
+            <p>Which inference containes,</p>
+            <p n="1">1. An objurgation or reproofe in thoſe words, <hi>Thou haſt ſhamed, &amp;c.</hi>
+            </p>
+            <p n="2">2. A demonſtration of the truth thereof, <hi>Thou loveſt thine enemies, &amp;c.</hi>
+            </p>
+            <p n="3">3. A reaſon given of this demonſtration, <hi>Thou regardeſt neither, &amp;c.</hi>
+            </p>
+            <p n="4">4. A requeſt urged to his Majeſty, <hi>Now therefore up, come out, &amp;c.</hi>
+            </p>
+            <p n="5">5. A danger diſcovered, if not granted, <hi>For I ſweare, &amp;c.</hi>
+            </p>
+            <p n="7">7<hi rend="sup">th</hi>. The event and iſſue of this ſad buſineſſe, which is,</p>
+            <p n="1">1. On the Kings part, he is perſwaded, and comes out, and ſits in the gate, ſo <hi>verſ.</hi> 8. <hi>Then the King aroſe, &amp;c.</hi>
+            </p>
+            <p n="2">
+               <pb n="3" facs="tcp:155760:6"/>2. On the peoples part, they are contented, and with this glad tidings of the Kings approach, come before him, ſtrive to ſerve him, &amp;c. So <hi>verſ.</hi> 8, 9, 10, 11. <hi>&amp;c.</hi>
+            </p>
+            <p>In the handling of this long Text and Hiſtory to you Honourable and well-beloved, for brevities ſake, this ſhall be mine order.</p>
+            <p>The two firſt parts, <hi>viz.</hi> 1. a ſad warre, 2. and betwixt ſuch parties, ſhall yeeld us this point of Doctrine.</p>
+            <p>That to ſee a ſad and civill warre, <label type="milestone">
+                  <seg type="milestoneunit">Doctr. </seg>1</label> in a time and Land of peace, betweene ſuch parties as the King and his Subjects, is a very deplorable and dolefull ſpectacle. <hi>Jer.</hi> 25.29. See the Lords deſcription of a warre, ſad words, more ſad workes, if God be provoked to doe them.</p>
+            <p>
+               <hi>Joab's</hi> ſinne is thus ſet downe, 1 <hi>King.</hi> 2.5.
+<note place="margin">
+                  <hi>Omega noſtro<g ref="char:EOLhyphen"/>rum mors eſt, Mars alpha ma<g ref="char:EOLhyphen"/>lorum.</hi> Epigr.</note> he ſhed the bloud of warre in peace: the bloud of bat<g ref="char:EOLhyphen"/>tell to be ſhed at any time is a ſad and ſorrowfull thing; but in the time in the land of peace is a double griefe. Every battell of the warriour is with confuſed noyſe, and with garments rolled in bloud, <hi>Eſa.</hi> 9.5. ſad ſpectacles, ſorrowfull cries; ſee the Prophet. The ſhield of the mighty is made red, the valiant men are in Scarlet, &amp;c. A multi<g ref="char:EOLhyphen"/>tude is ſlaine, and the dead bodies are many, there is no end of the corps, they ſtumble upon the dead carcaſſes, <hi>Nahum</hi> 2.3. <hi>and cap.</hi> 3.3. the ſigh<g ref="char:EOLhyphen"/>ing priſoners, <hi>Pſal.</hi> 79.11. mourning captives, <hi>Pſal.</hi> 137. are all within this dolefull ſpectacle of warre, what warre ſoever it be; but ſuch a warre
+<pb n="4" facs="tcp:155760:7"/>as is in our Text,
+<note place="margin">3. Properties of a civill war. —<hi>omnibus ho<g ref="char:EOLhyphen"/>ſtes Redditens populis, <gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>vils avertite bellum.</hi>
+               </note> yea in our times, it hath theſe con<g ref="char:EOLhyphen"/>ſiderations in it. 1. It is a civill warre. 2. A de<g ref="char:EOLhyphen"/>ſtructive. 3. An unnaturall warre, and theſe evill properties belong to none but ſuch a warre.</p>
+            <p>But why ſo ſad a ſpectacle?</p>
+            <p>Such a warre is a fearfull cauſe. <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>1</label>
+            </p>
+            <p>Doe you make it a caſe of conſcience you that fight? then heare a
+<note n="*" place="margin">The ſouldi<g ref="char:EOLhyphen"/>ers rule, an ill trade to kill men for money</note> a rule: The ingagement in a warre (eſpecially on the offenſive part) where the quarrell is either unjuſt or unknowne, makes both the actor and helper guilty of bloudſhed.</p>
+            <p>Doe you make it no caſe of conſcience, but for pay, hatred of goodneſſe, emulation, particular re<g ref="char:EOLhyphen"/>venge, &amp;c. hand over head and blindfold under<g ref="char:EOLhyphen"/>take it?
+<note place="margin">Paterculus de Roman. diſeer<g ref="char:EOLhyphen"/>dia.</note> Then heare one that ſpoke by experi<g ref="char:EOLhyphen"/>ence. Warre amongſt us (ſaith he) is begunne, not ſo much upon any cauſe, as for the wages the un<g ref="char:EOLhyphen"/>dertakers ſhould receive. 2. When once begunne, no man knew when it would end. 3. Covetouſ<g ref="char:EOLhyphen"/>neſſe yeelded a cauſe of cruelty; rather then not rob, they will kill, &amp;c. 4. The manner of offence was judged by the meaſure of coyne. 5. For if any one were rich, that was enough to render him guilty. 6. And no thing or action accounted bad if gainefull. So then in this looking-glaſſe of ours we ſee a bad cauſe working two bad effects.</p>
+            <p n="1">1. Are we ſcient, knowing? read 2 <hi>Sam.</hi> 2.14. or <hi>Gen.</hi> 27.40.</p>
+            <p n="2">2. <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>2</label> Are we ignorant? then read, 2 <hi>Sam.</hi> 15.11.</p>
+            <p>Such a warre hath fearfull effects. God and man will tell you this truth both of them. 1. God; ſee
+<pb n="5" facs="tcp:155760:7"/>the Scriptures before, and adde to them one more, <hi>Ier.</hi> 6.22. they come from the North, that is their place, <hi>verſ.</hi> 23. tels you their preparation and qua<g ref="char:EOLhyphen"/>lities, their mercy as little as their power great, <hi>verſ.</hi> 24. ſhewes us the peoples caution; how are they prepared? very poorely, <hi>verſ.</hi> 25, 26. ſets downe the Prophets counſell, a ſad buſineſſe.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the Greeke word for warre, ſignifies much bloud. <hi>Bellum a belluis. Tamberlaine's</hi> Coach<g ref="char:EOLhyphen"/>horſes were conquer'd Kings, <hi>Adonibezek's</hi> Dogs, 70. Kings gathering crums, &amp;c.
+<note place="margin">Jud. 1.7.</note> When the <hi>Swit<g ref="char:EOLhyphen"/>zers Anno</hi> 1443.
+<note n="(a)" place="margin">
+                  <hi>Lanquer. Chron. p.</hi> 261.</note> vanquiſhed the <hi>Thuricenſes</hi> in battell, they banquetted in the place where they wonne the victory, uſing the dead bodies of their adverſaries in ſtead of ſtooles and tables.</p>
+            <p>The <hi>Numantines</hi>
+               <note n="(b)" place="margin">Guevara Epiſt.</note> aſſaulted by the <hi>Romans</hi> made ſolemne vowes amongſt themſelves, no day to breake their faſt but with the fleſh of a <hi>Roman,</hi> nor to drinke before they had taſted the bloud of an enemy. <hi>Scipio</hi>
+               <note n="(c)" place="margin">
+                  <p>See <hi>Plutar.</hi> killed all the old women &amp; children, and ſet fire of all their riches in the market-place.</p>
+                  <p>
+                     <hi>Brutum fulm. p.</hi> 144.</p>
+               </note> tooke their Towne at laſt, and the ſtorie tels the ſad iſſue. Or if theſe will not ſerve, you may remember the cruelties be<g ref="char:EOLhyphen"/>tweene the <hi>Spaniard</hi> and the <hi>Hollander</hi> in our owne eyes.</p>
+            <p>If of civill warres you would ſee the effects ei<g ref="char:EOLhyphen"/>ther in the Chronicles of others, or our owne, you may receive ſatisfaction; the <hi>Brutum fulmen, pag.</hi> 144. tels us that in the late civill warres of <hi>France</hi> there were ſlaine 120000. natives, beſides other of their allies. See our owne, <hi>William</hi> the Conque<g ref="char:EOLhyphen"/>rotr, and ſucceſſively <hi>Yorke</hi> and <hi>Lancaſter,</hi> ſaith my
+<pb n="6" facs="tcp:155760:8"/>Author,
+<note n="(d)" place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt. lib.</hi> 1. <hi>c.</hi> 7.</note> in that unhappy quarrell devoured no leſſe then eighty Princes of the bloud Royall be<g ref="char:EOLhyphen"/>ſides an infinite number of the commonalty: theſe are ſad effects, and yet it might be drawne lower yet, but I forbeare.</p>
+            <p>Such a warre hath dolefull by-ſtanders. <label type="milestone">
+                  <seg type="milestoneunit">Doctr. </seg>3</label>
+            </p>
+            <p>Such are either friends or enemies, good or bad. 1. The Churches friends, as <hi>Ieremy</hi> in his Alpha<g ref="char:EOLhyphen"/>beticall Lamentations, ſend forth ſad expreſſions of ſorrow, for it grieves them to ſee her in the duſt; theſe yeeld bindings
+<note n="(e)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Nazi.</note> up to the ſores; they take words
+<note n="*" place="margin">Hoſea 14.2. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Baſil.</note> and goe to God, pleading with him as if they meant to ſilence him, yea make him bluſh and ſhame him; theſe like the Jewes in their Feaſts, breake their Glaſſes as <hi>Ieruſalem</hi> was bro<g ref="char:EOLhyphen"/>ken, and ſowe
+<note n="(f)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Nazian.</note> ſeede in the long furrowes which the ploughers made upon our back.</p>
+            <p n="2">2. But are they bad and our enemies? now they rejoyce and cry downe with her, even unto the ground, <hi>Pſal.</hi> 137.7. Now they conſult, <hi>Exod.</hi> 1.10. Come let us walke and worke wiſely; Now they conſpire, <hi>Geball,</hi> and <hi>Ammon,</hi> and <hi>Amalek,</hi> the <hi>Philiſtines,</hi> and them of <hi>Tyre,</hi> how they may take the houſe, and the cauſe, yea and Kingdome of God too into their poſſeſſion.</p>
+            <p>Well then, <label type="milestone">
+                  <seg type="milestoneunit">Uſe </seg>1</label> if warre be ſuch a cauſe of miſery, what is the cauſe of warre?</p>
+            <p>
+               <hi>Reſp.</hi> 1. You muſt looke upwards, and God ſayes he is the cauſe: So <hi>Ezek.</hi> 14.17. If I bring a ſword, &amp;c. it is <hi>Malum poenae,</hi> therfore not brought amongſt us, unleſſe he doe it, <hi>Amos</hi> 3.6. and
+<pb n="7" facs="tcp:155760:8"/>
+               <hi>Eſay</hi> 45.7. Warre is amongſt the treaſury of Gods Judgements, in the Magazine of his inſtruments of vengeance. The Church feeles, <hi>Lam.</hi> 1.12, 13, 14. &amp;c. And where it is not ſo perceived, they may feele the ſmarting of the wound, but (beleeve it) hardly runne right to the cure.
+<note place="margin">The people ſin and God makes the ſinne of the King, the ſinne of the peoples puniſhment.</note> See an inſtance for this <hi>Hoſea</hi> 5.13, 14. Oh that <hi>England</hi> might never forget that, 2 <hi>Sam.</hi> 24.1. The wrath of the Lord kindled againſt <hi>Iſrael,</hi> and he moved <hi>David, &amp;c.</hi>
+            </p>
+            <p>How ſhall we be perſwaded? Oh I thinke it is impoſſible, impoſſible I ſay, though not in it ſelfe, yet at leaſt by accident, for we knocke at deafe mens doores, our people are deceived, and God hath ſaid, Let them alone. Hearing they ſhal heare, and not underſtand, &amp;c. <hi>Eſa.</hi> 6.9, 10.</p>
+            <p>Firſt, Hypocriſie hath overcome us. We are like thoſe <hi>Micah</hi> 6.6, 7, 8, 9, 10. like them in the que<g ref="char:EOLhyphen"/>ſtion we would ſeeme to aske, not like them in the Anſwer, for wee cannot heare the rod, nor who hath appointed it, and indeed it is becauſe the treaſures of wickedneſſe are in the houſe of the wicked, no power, no will to be refor<g ref="char:EOLhyphen"/>med. Alas the ſinne and puniſhment are Nati<g ref="char:EOLhyphen"/>onall, ſo muſt the amendment be. It was the old rule,
+<note n="(g)" place="margin">
+                  <hi>Si veniam reus ſperet, petat cum lachrymis, petat fletibus to<g ref="char:EOLhyphen"/>tius Eccleſiae,</hi> Amb. de poeni<g ref="char:EOLhyphen"/>ten l. 1. c. 16.</note> If the private man (in caſe of publique ſinne) deſire pardon, let him aske it with his owne, yea, and the teares of the whole Church alſo.</p>
+            <p>Secondly, Deceit hath overcome us; 2 <hi>Theſſ.</hi> 2.10. God hath given them up to beleeve a lye; the Note upon that Text is,
+<note n="(h)" place="margin">
+                  <hi>Infatuati ſe<g ref="char:EOLhyphen"/>ducemur, ſeducti judical untur,</hi> Aug.</note> that being infatuate
+<pb n="8" facs="tcp:155760:9"/>they ſhall be ſeduced, and being ſeduced they ſhall be puniſhed: There is the fearefull malignant, the wilfull malignant, the ignorant malignant; and e<g ref="char:EOLhyphen"/>very one of theſe covers himſelfe under falſehood, making a lye his refuge, <hi>Eſay</hi> 28.15. The Sanctu<g ref="char:EOLhyphen"/>ary theſe men have in theſe ſad times, is like the covering under <hi>Jonahs</hi> Gourd, or <hi>Adams</hi> Figge<g ref="char:EOLhyphen"/>leaves; Oh that they could know that, firſt, under God there is no hiding place, for in the time of trouble he, &amp;c. <hi>Pſal.</hi> 27.5. ſecondly, that upon God who caſts himſelfe,
+<note n="(i)" place="margin">
+                  <hi>Nulla vis, nul<g ref="char:EOLhyphen"/>la fraus, nullae jam illecebrae poterunt vel ſtantem dejicere vel ſubjicere do<g ref="char:EOLhyphen"/>minantem</hi> Bern.</note> no force, no fraud can reach him.</p>
+            <p>Thirdly, Schiſme and diviſion hath overcome us, <hi>Manaſſes</hi> againſt <hi>Ephraim,</hi> and <hi>Ephraim</hi> againſt <hi>Manaſſes;</hi> but what ſhall I ſay? ſo it hath beene, will be, muſt be, Chriſt foretold it, and we have found it true which is ſaid <hi>Matth.</hi> 10.34, 35.</p>
+            <p>But what is this Schiſme? Ile give three rules in anſwer:</p>
+            <p>Firſt,
+<note n="(k)" place="margin">Quando do<g ref="char:EOLhyphen"/>ct<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inae ſeu praece<g ref="char:EOLhyphen"/>pta in conſeten<g ref="char:EOLhyphen"/>tias hominum obtendentur, quae non dubitative, ſed directe con<g ref="char:EOLhyphen"/>tra verbum Dei, aut legem huma<g ref="char:EOLhyphen"/>nam, &amp;c.</note> When things are thruſt upon the conſci<g ref="char:EOLhyphen"/>ence, which are not doubtfully, but directly againſt the Word of God, ſchiſme in this caſe is not active but paſſive, a due ſeparation from the errour, not the body, for to that we are united by the Spirit and love, ſo farre forth as it is united to the truth of Jeſus Chriſt the head thereof.</p>
+            <p>Apply this rule to the preſent ſtate of our times,
+<note place="margin">
+                  <hi>Schiſina,</hi> 1 <hi>acti<g ref="char:EOLhyphen"/>vum.</hi> 2 <hi>paſſivum</hi>
+               </note> and then tell me what is Schiſme, or what Rebel<g ref="char:EOLhyphen"/>lion?</p>
+            <p>Secondly, Schiſme or Diviſion likewiſe is ca<g ref="char:EOLhyphen"/>dent,</p>
+            <pb n="9" facs="tcp:155760:9"/>
+            <p>Firſt, Upon bad men, in whom it is either,
+<list>
+                  <item>1. Through too much faith: or</item>
+                  <item>2. Through too little Charity.</item>
+               </list>
+            </p>
+            <p>Secondly, Upon good men, in whom it is either,
+<list>
+                  <item>1. Through errour of Judgement.</item>
+                  <item>2. Or ſcruple of conſcience.</item>
+               </list>
+            </p>
+            <p>Apply this alſo, and you ſhall finde the raſh and heady malignant, ſo to be divided: Firſt, he be<g ref="char:EOLhyphen"/>leeves all, every promiſe, every proteſtation. And ſecondly, (which is worſe) he would cut the throat of him that will not ſo doe too.</p>
+            <p>The ignorant and better malignant he is divided otherwiſe, he hath a little
+<note n="*" place="margin">Non eſt conſci<g ref="char:EOLhyphen"/>entia quae obligat ſed lex illa quam intellectui con<g ref="char:EOLhyphen"/>ſcientia praeſen<g ref="char:EOLhyphen"/>tat: &amp; revera conſcientia ſem<g ref="char:EOLhyphen"/>per praeſumer<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſcientiam.</note> conſcience and that ſcruples almoſt the very word King or Parliament; he hath leſſe judgement, and that is the reaſon his conſcience is no better informed.</p>
+            <p n="3">3 Rule is for the Judges of what is Trouble, Schiſme, Diviſion, Rebellion, &amp;c. where you have,</p>
+            <p n="1">1. The greater part: theſe ſay,
+<note place="margin">
+                  <hi>Judicium</hi> 1. <hi>Ma<g ref="char:EOLhyphen"/>joris,</hi> 2. <hi>Melioris partis.</hi>
+               </note> 
+               <hi>Elias</hi> troubles <hi>Iſrael,</hi> 1 <hi>King.</hi> 18.18. and the Apoſtles, the world.</p>
+            <p n="2">2. The better part, and they can tell you that this muſt be retorted out of the ſame Text.</p>
+            <p>We have all this while looked upwards to finde out a cauſe of warre amongſt us. Now downe<g ref="char:EOLhyphen"/>wards, and there we ſhall finde our ſinne the cauſe of this ſo ſad an effect;
+<note place="margin">Nihil in poena<g ref="char:EOLhyphen"/>quod non prius e<g ref="char:EOLhyphen"/>rat in pecate.</note> and there we will put a pa<g ref="char:EOLhyphen"/>rallel betweene <hi>Davids</hi> time and ours in point of ſorrow-bringing ſinnes, thus.</p>
+            <p n="1">1. <hi>Davids</hi> indulgence: Is <hi>Abſolom</hi> ſuch a man?
+<pb n="10" facs="tcp:155760:10"/>a proper man, a goodly head of haire, but not a dram of grace, no
+<note n="*" place="margin">Pſal. 45.13, 14.</note> inward beauty at all, and yet the King cannot pull his heart from him al<g ref="char:EOLhyphen"/>though in the danger of the loſſe of a Kingdome.</p>
+            <p n="2">2. This <hi>Abſolom</hi> hath a party, and that in <hi>Iſrael</hi> too, that will venture their lives in ſuch a deſperate ungodly quarrell: Oh the wickedneſſe of this world! No cauſe ſo ill, or perſon ſo untoward, that is or ſhall be without adherents as wicked<g ref="char:EOLhyphen"/>ly deſperate as the undertaker can be in a caſe of miſchiefe.</p>
+            <p n="3">3. And theſe
+<note n="(l)" place="margin">Ahitophel, Sh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mei, Z<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ba. A Counſel<g ref="char:EOLhyphen"/>lour, a curſer, a couſener: a party good enough for ſo bad an under<g ref="char:EOLhyphen"/>taking.</note> counſellers, curſers, colloguers, what not? We may ſee the old complaint too truly verified, My Kingdom is not of this world, &amp;c. <hi>John</hi> 18.36 All them that doe the Devils buſineſſe ſhew their faithfulneſſe, (if it may ſo be called) the Lord Jeſus hardly findes one to truſt;
+<note place="margin">Concilium de<g ref="char:EOLhyphen"/>forme voca<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, glomerantur in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nu<g ref="char:cmbAbbrStroke">̄</g> Innumerae peſtes Erebi. <hi>Queſt.</hi>
+               </note> this I am ſure is a very ſad ſpectacle, to ſee a good cauſe have ſo few, a bad ſo many friends.</p>
+            <p>But let us aske one queſtion.</p>
+            <p>What marks or ſignes may be given for the diſ<g ref="char:EOLhyphen"/>covery of and diſcerning betweene the good and bad cauſe, ſide, or party, in ſuch a ſad ſpectacle of confuſion?</p>
+            <p n="1">1.
+<note place="margin">
+                  <hi>Solution. Markes to know the beſt ſide in a time of warre.</hi> 1. <hi>The M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rcy.</hi>
+               </note> The beſt ſide is ever the mercifull ſide, more ſparing, leſſe cruell, ready to ſay with him, 2 <hi>Sam.</hi> 2.26. Shall the ſword devoure for ever? ready to doe like him, 2 <hi>King.</hi> 6.22. Thou haſt taken them, but ſmite them not, ſet meate and drinke before them, that they may refreſh themſelves and goe to their Maſter; Marke this, and where you finde it,
+<pb n="11" facs="tcp:155760:10"/>honour that ſide, in times of ſadneſſe and combu<g ref="char:EOLhyphen"/>ſtion, the worſt Religion is ever moſt cruell; Ba<g ref="char:EOLhyphen"/>ſtardly profeſſions are ever full of bloud.</p>
+            <p n="2">2. The beſt quarrell is mixt, not perſonall; <note place="margin">2. Quarrell.</note> ſo God be not diſhonoured, ſinne maintained, they are ever as conſcientious in laying downe, as cou<g ref="char:EOLhyphen"/>ragious in taking up Arms; with ſuch men ſinne is a greater evill then warre, and no ſhame like that, not to defend Gods cauſe. See <hi>Joſhua</hi> 22.12, 13. &amp;c.</p>
+            <p n="3">3. Doth God give them victory? <note place="margin">3. Clemency.</note> other men ſhall feele their clemency, they will cauſe their enemies praiſe God they have, and pray him they may fall into ſuch hands. 2 <hi>Sam.</hi> 19.23. <hi>Davids</hi> Cavalliers are under command.</p>
+            <p>If God will pleaſe to continue us yet under this ſad condition, as I am afraid he will, theſe few rules I deſire to preſent the people in a deſolation pub<g ref="char:EOLhyphen"/>like. 1. The Law
+<note n="(m)" place="margin">Jus legio<g ref="char:EOLhyphen"/>nis facile eſt. 1. <hi>Non ſequi;</hi> 2. <hi>Non fugere bel<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>m.</hi> Veget. lib. 2. cap. 17.</note> of warfare is, (eſpecially in a good cauſe) Doe not follow, doe not flie an on<g ref="char:EOLhyphen"/>ſet. 2. Every ſpirituall warre conſiſts in a conflict betweene the reaſon and the will: Does ours ſo? ſurely it doth.</p>
+            <list>
+               <item>1. It is reaſon the <hi>Militia</hi> be in ſafe hands.</item>
+               <item>2. Reaſon the Parliament puniſh groſſe of<g ref="char:EOLhyphen"/>fenders.</item>
+               <item>3. Reaſon men ſhould part with ſome to defend all.</item>
+               <item>4.
+<note n="*" place="margin">Matth. 13.41.</note> Religion, things be taken out of the Church that doe offend.</item>
+            </list>
+            <p n="3">3. God is a Warrier,
+<note place="margin">Allegory.</note> and continually fighteth againſt the ſinner, his enemy; How does he de<g ref="char:EOLhyphen"/>fend?
+<pb n="12" facs="tcp:155760:11"/>Oh he is got into a walled Towne called Obſtinacy, the ditch about it is a great depth of ſin, the Turrets of thoſe wals are pride, and height of ſpirit; but what are his weapons? reſiſtance of the holy Ghoſt, and a wilfull extinguiſhing the light of his owne conſcience; his Captaine, blindneſſe, and his ſouldiers in this warre, inordinate affecti<g ref="char:EOLhyphen"/>ons; his Counſellour is folly, and his conqueſt hardneſſe of heart, with the forſaking of God and ſecurity. Apply this to our preſent condition, and you ſhall finde it to be <hi>Englands</hi> Looking-glaſſe.</p>
+            <p>The two next points, <hi>viz.</hi> the battell and the victory, yeeld us this:</p>
+            <p>That Chriſtians ought in times of ſadneſſe to contemplate the actions of warre which are ſeve<g ref="char:EOLhyphen"/>rally performed, <label type="milestone">
+                  <seg type="milestoneunit">Doctr. </seg>2</label>
+               <note place="margin">2. <hi>Things in war to be ſeene.</hi>
+               </note> viz. on mans part the former, for they can fight; but on the part of God the lat<g ref="char:EOLhyphen"/>ter, he ordereth the victory,</p>
+            <p>God orders hereby our ſight of things, <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>1</label> ſo 2 <hi>King.</hi> 6.16, 17. we ſee but halfe, if we ſee man onely: We ſee him taunting, vaunting, boaſting, threat<g ref="char:EOLhyphen"/>ning, he will doe this, and bring to paſſe that, but we ſee God determining, <hi>Eſa.</hi> 37.33. He ſhall not enter into this City, nor, &amp;c.</p>
+            <p>God would hereby guide our affections, griefe, feare, <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>2</label> joy, &amp;c. If a man ſee nothing but man, he ſees nothing but feare. They enquire in <hi>Flanders,</hi> they aske at Sea, Are not all the Round-heads kild yet? Cloiſters, and the whole rabble of the Ro<g ref="char:EOLhyphen"/>maniſts,
+<pb n="13" facs="tcp:155760:11"/>all contribute heads, hearts, hands, purſes, and all to this warre: yea <hi>Antichriſt, Tua res agi<g ref="char:EOLhyphen"/>tur?</hi> is thy worke a doing? But turne me out one of thy companions that can give the victory; no, that is out of all your reaches, ſee 1 <hi>Sam.</hi> 14.20. It is God that giveth victory unto Kings, <hi>Pſal.</hi> 144.10.</p>
+            <p>God hereby orders his owne acknowledge<g ref="char:EOLhyphen"/>ments. No ſacrificing to our nets, <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>3</label> God will have the glory: <hi>Exod.</hi> 15. and <hi>Jud.</hi> 5. are monumen<g ref="char:EOLhyphen"/>tall chapters for ſuch a purpoſe.</p>
+            <p>The Chriſtians contemplation: <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>1</label> here is matter for the moſt excellent underſtanding whatſoever, and as <hi>Paul</hi> ſaid to <hi>Timothy, Ep.</hi> 2. <hi>c.</hi> 2. <hi>v.</hi> 8. Remem<g ref="char:EOLhyphen"/>ber that Jeſus Chriſt, &amp;c. ſo ſay I, let all be remem<g ref="char:EOLhyphen"/>bred, but eſpecially fundamentall truths: There is a counſell well given, <hi>Act.</hi> 5.39. yea and well ta<g ref="char:EOLhyphen"/>ken too, for <hi>verſ.</hi> 40. to him they all conſented; in what? in this maine thing, that if it be of God there is no reſiſtance, leſt happily we be found figh<g ref="char:EOLhyphen"/>ters againſt God.</p>
+            <p>If I had ſuch a proffer from the King as ſome<g ref="char:EOLhyphen"/>times <hi>Salomon</hi> had from a greater then he,
+<note place="margin">To his Majeſty.</note> 1 <hi>King.</hi> 3.5. Aske what I ſhall give thee, I would firſt de<g ref="char:EOLhyphen"/>fire the contemplation of my deare Soveraigne fixed on this point; We will not remember miſled <hi>Ahab,</hi> 1 <hi>Reg.</hi> 22. for feare the parallel ſhould not be good enough: But we will thinke of good <hi>Ioſia</hi> one of the beſt of Kings, 2 <hi>Chron.</hi> 35.21, 22. Leave off to come againſt God which is with me, leſt he deſtroy thee: but <hi>Ioſia</hi> hearkened not to the words of <hi>Neche,</hi> which were of the mouth of God. Next
+<pb n="14" facs="tcp:155760:12"/>yee Patriots of our Countrey,
+<note place="margin">2. The Parlia<g ref="char:EOLhyphen"/>ment.</note> I ſhall deſire your remembrance of this point that you may be called, (as heretofore, in ſuch times, and upon ſuch occa<g ref="char:EOLhyphen"/>ſions as now) be called I ſay the Parliament wor<g ref="char:EOLhyphen"/>king wonders.
+<note place="margin">3. The King<g ref="char:EOLhyphen"/>dome.</note> Of you yee Citizens and Coun<g ref="char:EOLhyphen"/>trey-men, I deſire the reading of <hi>Iad.</hi> 5.6. the high wayes were (I ſay will be) unoccupied, but ob<g ref="char:EOLhyphen"/>ſerve <hi>verſ.</hi> 8. they choſe new Gods, new Devils rather, and then was warre in the gates.</p>
+            <p>The Chriſtians conſolation, <label type="milestone">
+                  <seg type="milestoneunit">Uſe </seg>2</label> 
+               <hi>Nec temerè, nec ti<g ref="char:EOLhyphen"/>midè,</hi> men and Chriſtians too, both or neither. <hi>He<g ref="char:EOLhyphen"/>zekiah's</hi> method (me thinkes) is excellent,
+<note place="margin">When the Bla<g ref="char:EOLhyphen"/>ſphemer brags, tell God of him.</note> 
+               <hi>Eſa.</hi> 36.21. with 37.1. Say nothing to that blaſphemer, but (as if they ſhould ſay) Sirra, we will complaine of you to one that ſhall take you to taske; an excel<g ref="char:EOLhyphen"/>lent courſe, be you carefull in nothing, (that is, un<g ref="char:EOLhyphen"/>beleevingly, diſtruſtfully ſo) but make your re<g ref="char:EOLhyphen"/>queſts to him who gives the victory, guides the bullets,
+<note place="margin">Threefold com<g ref="char:EOLhyphen"/>fort.</note> orders the battell, appoints the ſucceſſe, <hi>Pſal.</hi> 115.3. is in heaven, <hi>i. e.</hi> on high, and there<g ref="char:EOLhyphen"/>fore 1. ſees, 2. and doth whatſoever he will, 3. and he is our God: Of our perſons? yes: if not ſo, of our cauſe he is the God ſure.</p>
+            <div type="directions">
+               <head>Directions.</head>
+               <p n="1">1. The old
+<note n="(n)" place="margin">
+                     <hi>Plutarch</hi> in vita Thrafi<g ref="char:EOLhyphen"/>buli.</note> rule: the divident of victory was betweene the Commander, the Souldier, and For<g ref="char:EOLhyphen"/>tune: the laſt ſhould be firſt; I am afraid the laſt hath too little for his part.</p>
+               <p n="2">2. <hi>Quid eſt victoria?</hi> It is ſaid of old, It is
+<pb n="15" facs="tcp:155760:12"/>
+                  <note n="(o)" place="margin">Non oſſe turpe ab co vinci, quem vincere <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> nefas; neque ei inhoneſte ali<g ref="char:EOLhyphen"/>quem ſubmitti, quem fortuna ſuper omnes ex<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>u<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iſſe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Dictum Arme<g ref="char:EOLhyphen"/>nii Pompeio.</note> no ſhame to be overcome of him, whom to over<g ref="char:EOLhyphen"/>come were a ſhame; nor is it uncomely to be under him, whom God hath ſet over all. This is for the King indeed, indeed I intend it ſo; and it is for the Parliament too, all good Kings &amp; Chriſtians ſhould intend it ſo. The Chronicle ſaith of King <hi>Edw.</hi> 2.
+<note n="(p)" place="margin">Tunc vere victus quando tot vicit pru<g ref="char:EOLhyphen"/>dentes milites. <hi>Walſingham. Ed. pag.</hi> 95. Ut ſuperater victor prius 5000. hoſtiu<g ref="char:cmbAbbrStroke">̄</g> iſtius Reip. aut 5. victorias ob<g ref="char:EOLhyphen"/>tineter; vide <hi>I<g ref="char:EOLhyphen"/>ſid. Tranquil.</hi>
+                  </note> that he was never ſo overthrowne, as when he had overthrown ſo many brave and wiſe Souldiers; no ſuch victory againſt the King, as for him to have vi<g ref="char:EOLhyphen"/>ctory againſt the Parliament.</p>
+               <p n="3">3. There were in <hi>Rome</hi> certaine <hi>Lawes</hi> for their triumphs, that firſt the Conqueror ſhould have got five victories: Allegorically, to have overcome his five ſenſes, that is, himſelfe. Oh ſuch a victory on any ſide were worth a triumph! and ſurely that ſide is neareſt the deſerving of it that ſeeke not their owne ends or glory, but his that ſent them.</p>
+               <p>The fifth part, that is, the entertainment and ſad welcome of the newes of a victory, gives us this doctrine.</p>
+               <p>That a victory even to them that moſt deſire it may peradventure turne to be a thing ſorrowfull enough, <hi>verſ.</hi> 2. <label type="milestone">
+                     <seg type="milestoneunit">Doctr. </seg>3</label> the mirth into mourning, the joy into griefe enough.</p>
+               <p>Is drawne from the things which muſt or may be before a victory; I ſhall only quote the inſtance, <label type="milestone">
+                     <seg type="milestoneunit">Reaſort. </seg>2</label> 
+                  <hi>Iud.</hi> 20.21, 25, 35. with 21.3, 6. ſee here a victory full of bloud before, and wates, that is, teares after<g ref="char:EOLhyphen"/>ward: Oh theſe wonderfull puniſhments, juſt,
+<note place="margin">Paenae mirabi<g ref="char:EOLhyphen"/>les, Cajetan.</note> yet
+<pb n="16" facs="tcp:155760:13"/>ſecret, ſecret yet juſt, ſo his Judgements, as that they are alſo our ſinnes, God deliver us from them.</p>
+               <p>From the things which are after the victory. <label type="milestone">
+                     <seg type="milestoneunit">Reaſ. </seg>2</label> In heate of blood Men doe any thing, but after, if con<g ref="char:EOLhyphen"/>ſcience beginne to ſpeake, Oh then ſuch things as theſe will be thought on:
+<note place="margin">Secundae c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gita<g ref="char:EOLhyphen"/>tiones.</note> Firſt, the number of Chriſtians: Secondly, the manner of their death: Thirdly, the feare of damnation: Fourthly, the illneſſe of the Quarrell: Fifthly, my ingagement to defend it: Sixthly, <hi>Oblationes pacis,</hi> prayers for peace: Seventhly, cauſe of refuſall thereof, as diſ<g ref="char:EOLhyphen"/>ſimulation, &amp;c.</p>
+               <p>Information of the danger: <label type="milestone">
+                     <seg type="milestoneunit">Ʋſe </seg>1</label> 
+                  <hi>Hoc dulce inexpertis eſt:</hi> We muſt be knowing men in our dangers. May I have leave to diſtribute them?</p>
+               <p n="1">1. Danger of not parting with money, ſo in the wars at <hi>Conſtantinople.</hi>
+                  <note place="margin">Dangers in war</note>
+               </p>
+               <p n="2">2. Danger of ſedition, ſo in <hi>Jeruſalem,</hi> in <hi>Lon<g ref="char:EOLhyphen"/>don.</hi>
+               </p>
+               <p n="3">3. Danger of emulation, ſo in our Gentry and Army.</p>
+               <p n="4">4. Danger of mercenaries, ſo at <hi>Brainford,</hi> and every where.</p>
+               <p n="5">5. Danger of ſinne, the danger of all dangers.</p>
+               <p>
+                  <hi>Object.</hi> Beſt to leave all?</p>
+               <p>
+                  <hi>Sol.</hi>
+                  <note place="margin">Nunc periculum par animo Alex<g ref="char:EOLhyphen"/>andri.</note> That were the baſeſt of baſeneſſes: Now there is a danger fitting the minde of <hi>Alexander.</hi> There is neceſſity (ſayes he
+<note n="*" place="margin">
+                     <hi>Pompeius,</hi> See <hi>Plutar in vita e<g ref="char:EOLhyphen"/>jus.</hi>
+                  </note>) of Sayling, no ne<g ref="char:EOLhyphen"/>ceſſity of living. So ſay I, a neceſſity to fight, none to live, in ſervitude eſpecially, <hi>Epheſ.</hi> 6.10. It is Gods method to teach ſo, his peoples, to learne ſo.</p>
+               <pb n="17" facs="tcp:155760:13"/>
+               <p>Prepare therefore, ſhall we? Oh by all meanes poſſible, ſpiritually eſpecially, a <hi>Moſes,</hi> with an <hi>Aaron,</hi> and <hi>Hur</hi> to your <hi>Joſhua,</hi> Mountaine men, and valley men, <hi>Exod.</hi> 17.</p>
+               <p>Your doubt is the next uſe, and that thus, <label type="milestone">
+                     <seg type="milestoneunit">Vſe </seg>2</label> now every man can eaſily tell how he ſtands affected, but afterwards if our <hi>Abſolom</hi> be kild, what then? how then will you be affected in ſuch a caſe? will you not love Religion the worſe all your life time? <hi>Numaes</hi> Temple of old had this Inſcription,
+<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> 
+                  <hi>The Temple of Faith and Peace.</hi> Faith firſt, and ſecond<g ref="char:EOLhyphen"/>ly Peace: Chriſtian keepe thoſe two in that order in thy Soule, and take with thee theſe three gui<g ref="char:EOLhyphen"/>dances.</p>
+               <p>Firſt, See the worlds order, <hi>Numb.</hi> 16.41.
+<note place="margin">Vnderſtanding</note> they will have liberty to ſay, ye have killed, but we muſt not ſay, ye have ſet your ſelves againſt God, and therefore we are againſt you, and yet this is very true; if the effect be ours, the cauſe is yours, that's certaine.</p>
+               <p>Secondly,
+<note place="margin">Prayer.</note> Pray that that piece of the Pſalme may be fulfilled, <hi>Be wiſe now therefore O ye Kings.</hi> Much, much muſt be in Kings, <hi>Solomon</hi> the Sonne ſhewed ſuch a Maſter-peece, 1 <hi>Reg.</hi> 3.28. All <hi>Iſ<g ref="char:EOLhyphen"/>rael</hi> admired it, and feared him; So <hi>David</hi> the Fa<g ref="char:EOLhyphen"/>ther here, the danger of loſing his people, is tur<g ref="char:EOLhyphen"/>ned into the delight in gaining them; So King <hi>James</hi> the Father, ſhewed a Maſter-piece of skill in that great danger
+<note n="*" place="margin">Gun-powder treaſon.</note>; And pray we that God will guide our Royall Soveraigne his Sonne, that he will kiſſe the Sonne of God, leſt he be angry, and
+<pb n="18" facs="tcp:155760:14"/>ſo he and wee too, periſh from the right way.</p>
+               <p>Thirdly,
+<note place="margin">Boldneſſe.</note> Pray we that boldneſſe may be given to <hi>Joab, Micaiah, Jeremy, &amp;c.</hi> they may ſuffer much ill, but nothing to the good they ſhall doe: I ſhall preſent them with the Apoſtles reckoning, <hi>Rom.</hi> 8.18. And if we reckon otherwiſe we reckon wrong.</p>
+               <p>The ſixt part, <hi>viz. Joabs</hi> inference followes, and preſents us with this;</p>
+               <p>That in ſad times, <label type="milestone">
+                     <seg type="milestoneunit">Doctr. </seg>4</label> and times of imminent dan<g ref="char:EOLhyphen"/>ger, the greateſt of men ought to ſuffer themſelves to be very plainely dealt withall.</p>
+               <p>Kings have at ſuch times given leave, and Prieſts and Prophets taken leave, ſo to deale with the greateſt of men; <hi>Jerem.</hi> 38.20. But <hi>Jeremy</hi> ſaid, they ſhall not deliver thee, hearken unto the Word of the Lord, &amp;c. So 2 <hi>Chron.</hi> 15.2. <hi>Eliah</hi> with <hi>A<g ref="char:EOLhyphen"/>hab,</hi> 1 <hi>King.</hi> 18.18. <hi>Nathan</hi> with <hi>David,</hi> 2 <hi>Sam.</hi> 12. Flattery is odious at all times, but at ſuch times, <label type="milestone">
+                     <seg type="milestoneunit">Note. </seg>
+                  </label> it is both odious and dangerous: And if e<g ref="char:EOLhyphen"/>ver the Lord take away from the godly, their abi<g ref="char:EOLhyphen"/>lities, or liberties of Admonition, Prayer, Preach<g ref="char:EOLhyphen"/>ing, Reproofe, &amp;c. it is a dangerous preſage of ruine, or ſome great judgement, <hi>Jerem.</hi> 7.16.</p>
+               <p>So then, we ſhould take and have given us in times of danger, <label type="milestone">
+                     <seg type="milestoneunit">Reaſon. </seg>1</label> more boldneſſe, for ſad times worke much upon ſympathizing hearts, eſpecially ſuch as know themſelves deputed to be ſervicea<g ref="char:EOLhyphen"/>ble for ſuch reaſons. See the ſpirit of the Apoſtles
+<pb n="19" facs="tcp:155760:14"/>how it is raiſed: We cannot but ſpeake, <hi>Act.</hi> 4.20 And <hi>Act.</hi> 20.24. My life is not deare, ſo I may carry on the ſervice a little: What need men venture their neckes, their lives, to defend the cauſe? Oh their conſcience and the Commande<g ref="char:EOLhyphen"/>ment of God, Gods Spirit, the Churches ruine, all concurre and become mightily, yea irreſiſtibly o<g ref="char:EOLhyphen"/>perative for the publique.</p>
+               <p>God gives another Spirit, as to <hi>Caleb, Numb.</hi> 14.24. <label type="milestone">
+                     <seg type="milestoneunit">Reaſon </seg>2</label>
+                  <note place="margin">The River of <hi>Jordan</hi> turned our of its courſe to <hi>Pella,</hi> a yeare together a Co<g ref="char:EOLhyphen"/>mer like a fla<g ref="char:EOLhyphen"/>ming Sword o<g ref="char:EOLhyphen"/>ver <hi>Jeruſalem.</hi> Ar Sacrifice a Calfe brought forth a Lambe. See <hi>Euſebius</hi> &amp; others.</note>
+               </p>
+               <p>Gives warnings, as to <hi>Hieruſalem,</hi> fils the Aire with ſights and Comets. As the Cockes crow loud and thicke before a ſtorme, ſo theſe before a Judgement.</p>
+               <p>This begges excuſe for us, others, all well-affect<g ref="char:EOLhyphen"/>ed ſympathizing ones in times of ſadneſſe.</p>
+               <p>Not ſo much manners, diſcretion.</p>
+               <p>For believe it, Honorable and well-beloved in Jeſus Chriſt, they cannot helpe it ſometimes.</p>
+               <p>And marke the inſtance <hi>Amos</hi> 7.13. <label type="milestone">
+                     <seg type="milestoneunit">Note. </seg>
+                  </label> Propheſie no more at Court; No? See <hi>ver.</hi> 16, 17. He that ſayes ſo, and dares to ſilence the Lord of Hoaſts, his Wife ſhall be a Whore in the City, and his children ſhall fall by the ſword, &amp;c. <hi>v.</hi> 17.</p>
+               <p>But let us ſee the parts of the Kings chiding:</p>
+               <p>Firſt, His blame is plainely laid downe: <hi>David</hi> was a very happy King here, in the plaine dealing of <hi>Joab,</hi> elſewhere in <hi>Nathan.</hi>
+               </p>
+               <p>Kings are not more unhappy in any thing, then this, their flatterers and falſifyers with their enter<g ref="char:EOLhyphen"/>tainment, reward hearing.</p>
+               <pb n="20" facs="tcp:155760:15"/>
+               <p>But is it true that <hi>Joab</hi> charges the King withal?</p>
+               <p>The Lord forbid that anything but truth ſhould be charged upon the Lords Anointed. Then for Anſwer,</p>
+               <p n="1">1. Simply and by it ſelfe, <hi>David</hi> really hated to ſhame them that preſerve him and his.</p>
+               <p n="2">2. But it is by accident thus: as if <hi>Joab</hi> had ſaid, Sir, I perceive there are in your heart two things, in great competition, ſtriving for preheminence, your <hi>Abſolom</hi> firſt, and then your People. Now becauſe he hath gotten ſo much of your heart, therefore we get ſo little. And thus <hi>Joabs</hi> charge is true laid to the King; and thus may the Subjects charge againſt the King be true, if lying under the like cauſe of complaint.</p>
+               <p>But the ſecond part is <hi>Joabs</hi> Demonſtration, <hi>In that thou loveſt thine enemies, and hateſt thy Friends:</hi> Is this tiue? Yes, with this qualification;</p>
+               <p n="1">1. Negatively, I doe not ſay alwayes you doe ſo, but in this particular.</p>
+               <p n="2">2. Not in all particulars neither, but in particulars of
+<note n="*" place="margin">No miſerv greater to us in this ſad time then this, Reli<g ref="char:EOLhyphen"/>gion is in com<g ref="char:EOLhyphen"/>petition with Barbariſme, purity with popery, he lat<g ref="char:EOLhyphen"/>ter hath ſtore of carnall men for it, for they love it, the for<g ref="char:EOLhyphen"/>mer ſeene and loved of few, &amp; therefore of few imbraced</note> competition, <hi>q.d. Joab;</hi> Sir your <hi>Abſolom</hi> and your <hi>Adonijah,</hi> you may love them wel, but not bet<g ref="char:EOLhyphen"/>ter then your own peace, your owne people. If the Queene of your boſome ſtand in competition with your Kingdome, your people, you muſt not love her better then us, then it: <hi>Sapientia optime cernitur in comparatis.</hi> I conclude this with a Hiſtory I have read: the Emperour
+<note n="*" place="margin">Turk. hiſtory.</note> was charged with defect and want of care in government, by his Nobles and Princes moved thereto (as they alledged) by the
+<pb n="21" facs="tcp:155760:15"/>too much love of a Lady his Concubine: Whom in a great aſſembly the Emperour ſhewed to all his people on a time, and they concluded that in re<g ref="char:EOLhyphen"/>gard of her excellent beauty, they could not blame him for being miſled by her, and ſo were conten<g ref="char:EOLhyphen"/>ted. But (ſaith he) that you may know how little I regard her in compariſon of you, he drew his cemyter and kild her before them all. If our Re<g ref="char:EOLhyphen"/>ligion had ſtood in competition with any thing but Popery, our Parliament with any thing but the Gentry and Delinquents, they had never been ſo neare a miſcarriage.</p>
+               <p>But the third part is <hi>Joabs</hi> humble requeſt: <hi>Now therefore, &amp;c.</hi> It is in a triplicity:</p>
+               <p>Firſt, <hi>Surge,</hi> you are falne Sir very low, a King of others and not of your ſelfe, how ſhall you rule their paſſions that cannot guide your owne?</p>
+               <p>Secondly, <hi>Egredere,</hi> you are in priſon, the worſt of priſons, <hi>Mens captiva manet,</hi> a bird may be kept ſo long in the cage, that at length ſhe will not out though the doore be open.</p>
+               <p>Thirdly, <hi>Loquere ſuper cor,</hi> ſpeak comfort, we have heard ſorrow enough, we deſire now comfort, and it is onely to be had in you, and with a word, a comfortable aſpect upon your people, you may give it them.</p>
+               <p>And the fourth part is <hi>Davids</hi> great danger, if this be not done, <hi>viz.</hi> the Peoples deſertion.</p>
+               <p>But who ſhall apply this? Who may? Who dare?</p>
+               <p>Firſt, Let it be applyed to our <hi>David,</hi> and tell
+<pb n="22" facs="tcp:155760:16"/>him ye pillars of the People firſt: Then bring it ſwiftly to him ſome of you alſo, ye Charets and Horſemen of <hi>Iſrael,</hi> that there are but two govern<g ref="char:EOLhyphen"/>ments.
+<note place="margin">Two kinds of government.</note> Firſt, as the Soule governes the body. Se<g ref="char:EOLhyphen"/>condly, as the reaſon, the appetite. Our Kings go<g ref="char:EOLhyphen"/>vernment is not like the firſt, he cannot enliven us as the Soule doth the body: Then let it be like the ſecond, as the reaſon doth the appetite; how is that? by commanding reaſonable things.</p>
+               <p>Secondly, And take heed you ſpeake our ſenſe. We doe not
+<note n="*" place="margin">The Mother of <hi>Artaxerxes</hi> had wont to ſay, that they that would ad<g ref="char:EOLhyphen"/>dreſſe them<g ref="char:EOLhyphen"/>ſelves to Prin<g ref="char:EOLhyphen"/>ces, muſt uſe <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, Silken words. <hi>Plut. Apophtheg.</hi>
+                  </note>, we dare not thinke his Sacred Ma<g ref="char:EOLhyphen"/>jeſty, doth intentionally hate his friends and love his foes, but that ſomething is unhappily got in competition with us, which yet God hath not diſ<g ref="char:EOLhyphen"/>covered to him.</p>
+               <p>Thirdly, And let this be done dutifully, humbly, in a Subjects poſture, and as to a <hi>David</hi> indeed.</p>
+               <p>Fourthly, And yet ſo boldly that you propound the danger, with this direction alſo, which is none of mine, <hi>Scopus noſtrae profeſsionis eſt ut, &amp;c.</hi> the ſcope of our Profeſſion is, that we be obedient to all Superiours, ſo long as this obedience brings no detriment to the Soule: but if it come to this, we muſt dare to uſe our owne Liberty. <hi>Epiſt. Synod. cui<g ref="char:EOLhyphen"/>nomen Libellus ſupplex, &amp; vide Tom.</hi> 1. <hi>Fol.</hi> 803. <hi>Conc. Epheſ.</hi>
+               </p>
+               <p>The ſeventh part, the event on the Kings part, he comes to the place of Judicatory, on the Peo<g ref="char:EOLhyphen"/>ples part, they come to the place of auditory.</p>
+               <p>The retractations of publique perſons, <label type="milestone">
+                     <seg type="milestoneunit">Doctr. </seg>5</label> as Kings,
+<pb n="23" facs="tcp:155760:16"/>&amp;c. are exceeding attractive, like the great wheele in the watch: Inſtan. 2 <hi>King.</hi> 22.12.</p>
+               <p>There is a concurrence, and commoving in, <label type="milestone">
+                     <seg type="milestoneunit">Reaſon </seg>1</label> and with ſuch actions; before goeth <hi>Davids</hi> action, af<g ref="char:EOLhyphen"/>ter comes the peoples affection, a heavenly order; ſo dealeth God with his People, as you may ſee, <hi>Pſal.</hi> 116.1.8, 9, 10, 11, 12, 19. and 2 <hi>Chron.</hi> 15.8.12.16. The King ſhewes himſelfe zealous of their good, the people ſhew themſelves as zealous of his glory, he Crownes their deſires, they his Tem<g ref="char:EOLhyphen"/>ples.</p>
+               <p>There is a ſeaſonableneſſe, <label type="milestone">
+                     <seg type="milestoneunit">Reaſon </seg>2</label> in this retractation of <hi>David,</hi> which is obſervable, before the miſchiefe grow too bigge, before the Devill tempt, before the heart be hardned, before the approach of flat<g ref="char:EOLhyphen"/>tery, or evill counſell, the good God ſuggeſteth, and the good <hi>David</hi> obeyeth, to returne to his Peo<g ref="char:EOLhyphen"/>ple that they may returne to him, &amp;c.</p>
+               <p>Pray for audience in this particular, <label type="milestone">
+                     <seg type="milestoneunit">Uſe </seg>1</label> this day of God, and of the King.</p>
+               <p>In relation to us they are Gods (our Governors I meane) but in relation to God, they are but men.</p>
+               <p>Firſt, Preſent good, <hi>viz.</hi> that of retractation in things amiſſe, that they owe to us.</p>
+               <p>Secondly, The future good, that of ſubmiſſion and obedience, that we owe to them. With them both, and with all thoſe things which make to the beſt and bleſt eſtabliſhment of Peace and Truth a<g ref="char:EOLhyphen"/>mongſt us, the Lord of Heaven be intreated to bleſſe both the King and People in this much di<g ref="char:EOLhyphen"/>ſtracted Kingdome, for his deare Sons ſake, <hi>Amen.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
